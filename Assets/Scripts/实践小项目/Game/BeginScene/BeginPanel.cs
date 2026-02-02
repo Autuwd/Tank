@@ -24,6 +24,9 @@ public class BeginPanel : BasePanel<BeginPanel>
         btnSetting.clickEvent += () =>
         {
             //打开设置面板
+            SettingPanel.Instance.ShowMe();
+            //隐藏自己 避免穿透
+            HideMe();
         };
         btnQuit.clickEvent += () =>
         {
@@ -33,6 +36,9 @@ public class BeginPanel : BasePanel<BeginPanel>
         btnRank.clickEvent += () =>
         {
             //打开排行榜面板
+            RankPanel.Instance.ShowMe();
+            //避免穿透 隐藏自己
+            HideMe();
         };
     }
 }
