@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "G:\\Unity 2021.1.0f1c1\\Tank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|g:\\unity 2021.1.0f1c1\\tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|g:\\unity 2021.1.0f1c1\\tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|g:\\unity 2021.1.0f1c1\\tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\gamescene\\ui\\quitpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\gamescene\\ui\\quitpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|g:\\unity 2021.1.0f1c1\\tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\rankinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\rankinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\musicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\rankpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\rankinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\data\\rankinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}|Assembly-CSharp.csproj|G:\\Unity 2021.1.0f1c1\\Tank\\assets\\scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\game\\beginscene\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +66,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "QuitPanel.cs",
+              "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\QuitPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\QuitPanel.cs",
+              "ToolTip": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\QuitPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\QuitPanel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:32:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\GamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\GamePanel.cs",
+              "ToolTip": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\GamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\GameScene\\UI\\GamePanel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAxwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:39:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BKMusic.cs",
+              "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BKMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BKMusic.cs",
+              "ToolTip": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BKMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BKMusic.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:32:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RankInfo.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\RankInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\RankInfo.cs",
@@ -66,12 +116,11 @@
               "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\RankInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T05:08:24.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T05:08:24.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "RankPanel.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\RankPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\RankPanel.cs",
@@ -79,49 +128,49 @@
               "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\RankPanel.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAUwCkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T04:33:09.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T04:33:09.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameDataMgr.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\GameDataMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\GameDataMgr.cs",
               "ToolTip": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\GameDataMgr.cs",
               "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\GameDataMgr.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwC8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA0wEwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T01:52:09.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MusicData.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\MusicData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\MusicData.cs",
               "ToolTip": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\MusicData.cs",
               "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\Data\\MusicData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T01:42:51.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\SettingPanel.cs",
               "ToolTip": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\SettingPanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\SettingPanel.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAxwDEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAxwDUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:26:09.253Z"
+              "WhenOpened": "2026-02-02T01:26:09.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "BeginPanel.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BeginPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BeginPanel.cs",
@@ -133,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BasePanel.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BasePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\BasePanel.cs",
@@ -145,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "RotateObj.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\RotateObj.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5B9E\u8DF5\u5C0F\u9879\u76EE\\Game\\BeginScene\\RotateObj.cs",
@@ -157,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Lesson3.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5FC5\u5907\u77E5\u8BC6\u70B9\\\u968F\u673A\u6570\u548CUnity\u81EA\u5E26\u59D4\u6258\\Lesson3.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5FC5\u5907\u77E5\u8BC6\u70B9\\\u968F\u673A\u6570\u548CUnity\u81EA\u5E26\u59D4\u6258\\Lesson3.cs",
@@ -169,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Lesson2.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5FC5\u5907\u77E5\u8BC6\u70B9\\\u9690\u85CF\u9501\u5B9A\u9F20\u6807\\Lesson2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5FC5\u5907\u77E5\u8BC6\u70B9\\\u9690\u85CF\u9501\u5B9A\u9F20\u6807\\Lesson2.cs",
@@ -181,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Lesson1.cs",
               "DocumentMoniker": "G:\\Unity 2021.1.0f1c1\\Tank\\Assets\\Scripts\\\u5FC5\u5907\u77E5\u8BC6\u70B9\\\u573A\u666F\u5207\u6362\u548C\u6E38\u620F\u9000\u51FA\\Lesson1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\\u5FC5\u5907\u77E5\u8BC6\u70B9\\\u573A\u666F\u5207\u6362\u548C\u6E38\u620F\u9000\u51FA\\Lesson1.cs",

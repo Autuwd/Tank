@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SettingPanel : BasePanel<SettingPanel>
 {
@@ -32,8 +33,13 @@ public class SettingPanel : BasePanel<SettingPanel>
         {
             //隐藏自己
             HideMe();
-            //让开始面板重新显示出来
-            BeginPanel.Instance.ShowMe();
+
+            //判断当前所在场景 应该如何判断
+            if (SceneManager.GetActiveScene().name == "BeginScene")
+            {
+                //让开始面板重新显示出来
+                BeginPanel.Instance.ShowMe();
+            }
         };
 
         HideMe();
@@ -57,6 +63,12 @@ public class SettingPanel : BasePanel<SettingPanel>
         base.ShowMe();
         //每次显示 面板时 顺便 把面板上的内容也更新了
         UpdatePanelInfo();
+    }
+
+    public override void HideMe()
+    {
+        base.HideMe();
+        Time.timeScale = 1;
     }
 
 }
